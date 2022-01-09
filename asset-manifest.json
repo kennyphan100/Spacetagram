@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Spacetagram/static/css/main.a039eeb1.css",
+    "main.js": "/Spacetagram/static/js/main.41d18da0.js",
+    "static/media/background_video.mp4": "/Spacetagram/static/media/background_video.4964a641b25ca738ed76.mp4",
+    "index.html": "/Spacetagram/index.html",
+    "main.a039eeb1.css.map": "/Spacetagram/static/css/main.a039eeb1.css.map",
+    "main.41d18da0.js.map": "/Spacetagram/static/js/main.41d18da0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a039eeb1.css",
+    "static/js/main.41d18da0.js"
+  ]
+}
