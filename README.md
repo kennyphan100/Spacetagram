@@ -10,10 +10,10 @@ You can access the tool here: https://kennyphan100.github.io/Spacetagram/
 ## From this project, I have learned the following things:
 
 * Fundamentals of React.js
-  * React components & class
-  * React props
-  * React events
-  * React hook: useState,
+	* React components & class
+	* React props
+	* React events
+	* React hook: useState,
 
 * Javascript ES6:
 	* JS Async/Await
