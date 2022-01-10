@@ -21,3 +21,8 @@ The application can be accessed here: https://kennyphan100.github.io/Spacetagram
 	* Spread operator
 	* Template literals
 	* Destructuring assignment
+
+<br>
+
+![image](https://user-images.githubusercontent.com/66841718/148715714-dd343eb9-0b37-441b-bc22-f5d03c08d7a7.png)
+
