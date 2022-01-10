@@ -1,8 +1,8 @@
 # Spacetagram
 
-Spacetagram is an application to help share images from NASA's image library. Users can browse any photos starting and ending from specific year given an initial keyword.
+Spacetagram is an application to help share images from NASA's image library. Given an initial keyword, users can browse any photos starting and/or ending from a specific year.
 <br>
-You can access the tool here: https://kennyphan100.github.io/Spacetagram/
+The application can be accessed here: https://kennyphan100.github.io/Spacetagram/
 
 <br>
 ## From this project, I have learned the following things:
