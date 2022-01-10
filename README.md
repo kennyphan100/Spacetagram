@@ -8,6 +8,7 @@ You can access the tool here: https://kennyphan100.github.io/Spacetagram/
 
 <br>
 ## From this project, I have learned the following things:
+
 * Fundamentals of React.js
   * React components & class
   * React props
