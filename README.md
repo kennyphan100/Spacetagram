@@ -13,6 +13,7 @@ You can access the tool here: https://kennyphan100.github.io/Spacetagram/
   * React props
   * React events
   * React hook: useState,
+
 * Javascript ES6:
 	* JS Async/Await
 	* Arrow functions
