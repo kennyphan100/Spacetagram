@@ -12,7 +12,7 @@ The application can be accessed here: https://kennyphan100.github.io/Spacetagram
 	* React components & class
 	* React props
 	* React events
-	* React hook: useState,
+	* React hook: useState
 * Javascript ES6:
 	* JS Async/Await
 	* Arrow functions
